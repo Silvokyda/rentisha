@@ -100,7 +100,7 @@ export const POST = async (req) => {
       // make req to upload to cloudinary into specified folder
       const result = await cloudinary.uploader.upload(
         `data:image/png;base64,${imageBase64}`,
-        { folder: 'kodisha' }
+        { folder: 'Becima' }
       )
 
       imageUploadPromises.push(result.secure_url)

@@ -1,8 +1,8 @@
-# Kodisha - Rental Application
+# Becima - Rental Application
 
 ## Overview
 
-Kodisha is a rental application built using Next.js v14, designed to provide users with a seamless experience in searching and listing rental properties.
+Becima is a rental application built using Next.js v14, designed to provide users with a seamless experience in searching and listing rental properties.
 
 ## Features
 
@@ -60,4 +60,4 @@ Contributions are welcome. Please follow the standard GitHub workflow for submit
 
 For any questions or feedback, please reach out to [email](mailto:devs.josia@gmail.com).
 
-This README.md file provides a comprehensive overview of the Kodisha rental application project, including its features, technical requirements, and contribution guidelines.
+This README.md file provides a comprehensive overview of the Becima rental application project, including its features, technical requirements, and contribution guidelines.

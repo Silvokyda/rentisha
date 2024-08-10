@@ -67,12 +67,12 @@ const NavBar = () => {
               <Image
                 className='w-auto h-10'
                 src={logoWhite}
-                alt='Kodisha'
+                alt='Becima'
                 priority={true}
               />
 
               <span className='hidden ml-2 text-2xl font-bold text-white md:block'>
-                Kodisha
+                Becima
               </span>
             </Link>
 

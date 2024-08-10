@@ -7,7 +7,7 @@ import 'photoswipe/dist/photoswipe.css'
 import { poppins } from '@/utils/fonts'
 
 export const metadata = {
-  title: 'Kodisha | Find The Perfect Rental',
+  title: 'Becima | Find The Perfect Rental',
   description: 'Find your dream rental property',
   keywords:
     'rental, find rentals, rent in kenya, properties in kenya, cheapest houses in kenya, luxury homes',
